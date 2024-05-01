@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 2,
+    "name": "Comedy book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 3,
+    "name": "Manga ",
+    "title": "Naruto Shippudin",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 4,
+    "name": "Manga",
+    "title": "The Deadth Note",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 5,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 6,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 7,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 8,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 9,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 10,
+    "name": "Adventure book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 11,
+    "name": "Horror book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "Free",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 12,
+    "name": "Anime book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "paid",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 13,
+    "name": "Anime book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "paid",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 14,
+    "name": "History book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "paid",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  },
+  {
+    "id": 15,
+    "name": "Geopolitics book",
+    "title": "The Lord of the Rings: The Adventures of Tom Bombadil",
+    "price": 0,
+    "category": "paid",
+    "image": "https://pixabay.com/illustrations/ai-generated-child-book-reading-8637231/"
+  }
+]
